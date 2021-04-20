@@ -3,23 +3,67 @@
 		{"id": 1,
 		 "name": "Asphalt 9: Legends",
 		 "year": 2018,
-		 "platform": "Switch",
-		 "price": 40,
-		 "description": "Racing around" 
+		 "platform": "Nintendo Switch" 
 		},
 		{"id": 2,
 		 "name": "AmongUs",
 		 "year": 2019,
-		 "platform": "Tablet",
-		 "price": 0,
-		 "description": "Chasing around" 
+		 "platform": "Tablet" 
 		},
 		{"id": 3,
 		 "name": "Apex Legends",
 		 "year": 2019,
-		 "platform": "PC",
-		 "price": 50,
-		 "description": "Try to survive!" 
+		 "platform": "PC" 
+		},
+		{"id": 4,
+		 "name": "The Legend of Zelda",
+		 "year": 1986,
+		 "platform": "PC" 
+		},
+		{"id": 5,
+		 "name": "Teris",
+		 "year": 1984,
+		 "platform": "PC" 
+		},
+		{"id": 6,
+		 "name": "Mario Kart Live: Home Circuit",
+		 "year": 2020,
+		 "platform": "Nintendo Switch" 
+		},
+		{"id": 7,
+		 "name": "Planet Alpha",
+		 "year": 2020,
+		 "platform": "Nintendo Switch" 
+		},
+		{"id": 8,
+		 "name": "Super Mario Odyssey",
+		 "year": 2017,
+		 "platform": "Nintendo Switch" 
+		},
+		{"id": 9,
+		 "name": "Doom",
+		 "year": 1993,
+		 "platform": "PC" 
+		},
+		{"id": 9,
+		 "name": "Doom",
+		 "year": 1993,
+		 "platform": "PC" 
+		},
+		{"id": 10,
+		 "name": "Doom II: Hell on Hearth",
+		 "year": 1994,
+		 "platform": "PC" 
+		},
+		{"id": 11,
+		 "name": "Ultimate Doom",
+		 "year": 1995,
+		 "platform": "PC" 
+		},
+		{"id": 12,
+		 "name": "Descent",
+		 "year": 1995,
+		 "platform": "PC" 
 		}
 	]
 }
